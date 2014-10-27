@@ -1,0 +1,36 @@
+Dynamic Count 966583084
+Integer Count 829220038
+Floating Point Count 0
+Loads 405414374
+Stores 197012263
+Branches 141384540
+Percent Branches Taken 0.791664%
+Percent Forward Branches Taken 0.584731%
+Basic Block Size 5.71919
+RAW 0-2 584276140
+RAW 3-8 170803788
+RAW 9-32 26606285
+RAW 33+ 3340076
+WAW 0-2 67181674
+WAW 3-8 214350453
+WAW 9-32 11608788
+WAW 33+ 1224796
+WAR 0-2 610513624
+WAR 3-8 152192017
+WAR 9-32 20701567
+WAR 33+ 1619078
+Temporal Density Byte 0-2 39327466
+Temporal Density Byte 3-8 524724487
+Temporal Density Byte 9-16 25128217
+Temporal Density Byte 17-32 26532515
+Temporal Density Byte 33+ 350870368
+Temporal Density Cacheline 0-2 902705721
+Temporal Density Cacheline 3-8 34004264
+Temporal Density Cacheline 9-16 13340300
+Temporal Density Cacheline 17-32 1464743
+Temporal Density Cacheline 33+ 15068044
+Temporal Density Page 0-2 966445083
+Temporal Density Page 3-8 79555
+Temporal Density Page 9-16 11954
+Temporal Density Page 17-32 15992
+Temporal Density Page 33+ 30498
